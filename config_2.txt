@@ -1,0 +1,5 @@
+[base]
+url = https://courses.letskodeit.com/
+browser= ""
+Test= new test
+More words

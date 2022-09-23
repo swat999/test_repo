@@ -3,3 +3,49 @@ url = https://courses.letskodeit.com/
 browser= ""
 Test= new test
 More words
+
+git init 
+
+
+To make a repository as git repository 
+
+git status 
+
+
+To Know the status of the repository
+
+git add file.name
+
+
+Add file to tracked changed
+
+git rm --cached <file>...
+
+
+Remove the file from tracked changes 
+
+git commit -m "commit message"
+
+
+Commit file to the local repository
+
+git add *
+
+
+Add all the files in the directory as tracked changes 
+
+
+git diff file.name
+
+
+It displays the difference between current version with previous version
+
+git log file.name
+
+
+Displays history commit logs
+
+git remote add origin https://github.com/swat999/test_repo.git
+
+
+Adding github to git

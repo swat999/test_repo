@@ -3,3 +3,35 @@ url = https://courses.letskodeit.com/
 browser= ""
 Test= new test
 More words
+
+
+git push -u origin main
+
+
+Push code to remote git repository
+
+git clone {url}
+
+
+To clone a git repo from remote
+
+git pull
+
+
+To get the latest update or change in the master to the local
+
+git branch
+
+
+Returns the current branch
+
+git checkout -b branch_name
+
+
+Creates a new branch from existing branch
+
+git checkout branch_name
+
+
+Switch to branch
+
